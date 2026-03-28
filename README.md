@@ -8,7 +8,7 @@ This is a modern and responsive restaurant website built using HTML, CSS, and Ja
 - Google Maps integration
 
 ## Live Demo
-[https://your-username.github.io/restaurant-demo-website](https://naveen7793970572.github.io/demo-restaurant-website/)
+https://naveen7793970572.github.io/demo-restaurant-website/
 
 ## Technologies Used
 - HTML
